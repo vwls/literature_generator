@@ -2,27 +2,40 @@ body {
 	/*background-color: rgb(117, 30, 30);*/
 	background-color: rgb(255, 236, 207);
 	/*color: rgb(25,25,25);*/
-	font-family: 'Libre Baskerville', serif;
+	/*font-family: 'Libre Baskerville', serif;*/
+	font-family: 'Vollkorn', serif;
 	font-size: 18px;
 	color: rgb(117, 30, 30);
 }
 
 h1 {
-	font-size: 32px;
-	font-family: avenir;
+	font-size: 40px;
+	font-family: 'Grenze', serif;
+}
+
+#messageElt {
+	/*text-align: center;*/
+	padding: 15px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	height: auto;
+	width: auto;
+	border: 1px dashed grey;
+	/*border-radius: 8px;*/
 
 }
 
 button {
 	text-decoration: none;
 	/*font-family: monospace;*/
-	font-family: 'Libre Baskerville', serif;
+	/*font-family: 'Libre Baskerville', serif;*/
+	font-family: 'Vollkorn', serif;
 	color: rgb(255, 236, 207);
 	margin-top: 15px;
 	width: 100px;
 	padding: 8px;
 	font-size: 16px;
-	border-radius: 8px;
+	/*border-radius: 8px;*/
 	background-color: rgb(117, 30, 30);
 }
 
