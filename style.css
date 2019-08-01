@@ -4,13 +4,15 @@ body {
 	/*color: rgb(25,25,25);*/
 	/*font-family: 'Libre Baskerville', serif;*/
 	font-family: 'Vollkorn', serif;
-	font-size: 18px;
-	color: rgb(117, 30, 30);
+	font-size: 20px;
+	/*color: rgb(117, 30, 30);*/
+	color: rgb(90, 134, 191);
 }
 
 h1 {
 	font-size: 40px;
 	font-family: 'Grenze', serif;
+	color: rgb(161, 42, 42);
 }
 
 #messageElt {
@@ -36,7 +38,7 @@ button {
 	padding: 8px;
 	font-size: 16px;
 	/*border-radius: 8px;*/
-	background-color: rgb(117, 30, 30);
+	background-color: rgb(161, 42, 42);
 }
 
 button:hover {
