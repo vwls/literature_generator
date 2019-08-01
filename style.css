@@ -1,0 +1,31 @@
+body {
+	/*background-color: rgb(117, 30, 30);*/
+	background-color: rgb(255, 236, 207);
+	/*color: rgb(25,25,25);*/
+	font-family: 'Libre Baskerville', serif;
+	font-size: 18px;
+	color: rgb(117, 30, 30);
+}
+
+h1 {
+	font-size: 32px;
+	font-family: avenir;
+
+}
+
+button {
+	text-decoration: none;
+	/*font-family: monospace;*/
+	font-family: 'Libre Baskerville', serif;
+	color: rgb(255, 236, 207);
+	margin-top: 15px;
+	width: 100px;
+	padding: 8px;
+	font-size: 16px;
+	border-radius: 8px;
+	background-color: rgb(117, 30, 30);
+}
+
+button:hover {
+	background-color: rgb(176, 46, 46);
+}
